@@ -5,7 +5,11 @@
   <h3>I'm civil Engineer , studying to be a dev</h3><br>
 </div>
 
-- 🔭 I’m currently studying on Driven
+- 🔭 I’m currently studying at [Driven Education](https://www.driven.com.br/) to be a Fullstack developer.
+- :classical_building: I have a degree in civil engineering from [UTFPR](http://www.utfpr.edu.br/).
+
+<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=nilsonnetto&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilsonnetto&layout=compact" />
 
 <!--
 **NilsonNetto/NilsonNetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
