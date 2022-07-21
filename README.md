@@ -1,6 +1,5 @@
-<h2> Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24" /> </h2>
-
 <div align="center">
+<h2> Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24" /> </h2>
   <h1>Nilson Netto</h1>
   <h3>I'm civil Engineer , studying to be a dev</h3><br>
 </div>
@@ -9,8 +8,8 @@
 - :classical_building: I have a degree in civil engineering from [UTFPR](http://www.utfpr.edu.br/).
 
 <div align = "space-between">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilsonnetto&layout=compact" />
-<img width="350" src="https://github-readme-stats.vercel.app/api?username=nilsonnetto&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues" />
+<img heigth="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilsonnetto&layout=compact" />
+<img width="450" src="https://github-readme-stats.vercel.app/api?username=nilsonnetto&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues" />
   </div>
 
 
