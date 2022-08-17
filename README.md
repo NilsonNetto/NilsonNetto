@@ -4,16 +4,28 @@
   <h3>I'm civil Engineer , studying to be a dev</h3><br>
 </div>
 
-- 🔭 I’m currently studying at [Driven Education](https://www.driven.com.br/) to be a Fullstack developer.
-- :classical_building: I have a degree in civil engineering from [UTFPR](http://www.utfpr.edu.br/).
+<table><tr><td valign="top" width="40%" border="hide">
+
+- 🔭 I’m currently studying at [Driven Education](https://www.driven.com.br/) to be a Fullstack developer.  
+  
+
+- 🏗️ I have a degree in civil engineering from [UTFPR](http://www.utfpr.edu.br/).  
+
+
+</td><td valign="top" width="40%">
+
+<div align="center">
+<img src="https://media.giphy.com/media/uWKtW8ith0vTGI8F5Q/giphy.gif" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/>  
 
 ###
 
-  <img align="right" height="150" src="https://media.giphy.com/media/uWKtW8ith0vTGI8F5Q/giphy.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <h3>Languages and Tools</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" width="48" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" width="48" alt="css3 logo"  />
@@ -28,7 +40,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:eng.nilsonnetto@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
