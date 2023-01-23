@@ -11,7 +11,10 @@
 
 - 🏗️ I have a degree in civil engineering from [UTFPR](http://www.utfpr.edu.br/).  
 
-
+- ❓ curiosity about me: i have mild color blindness
+  
+- 📌 Give a look on my pinned projects and fell free to talk about it with me :)
+  
 </td><td valign="top" width="40%">
 
 <div align="center">
