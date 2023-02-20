@@ -52,7 +52,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="35" width="48" alt="trello logo"  />
 </div>
 
-###
+<div align="center">
+  <h3>Learning</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" width="48" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="35" width="48" alt="css3 logo"  />
+</div>
+
+  ###
 
 <div align="center">
   <a href="mailto:eng.nilsonnetto@gmail.com" target="_blank">
